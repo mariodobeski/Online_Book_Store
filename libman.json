@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "datatables@1.10.20",
+      "destination": "wwwroot/datatables/"
+    },
+    {
+      "library": "font-awesome@5.13.0",
+      "destination": "wwwroot/font-awesome/"
+    },
+    {
+      "library": "moment.js@2.24.0",
+      "destination": "wwwroot/moment.js/"
+    }
+  ]
+}
